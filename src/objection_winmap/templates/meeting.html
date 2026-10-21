@@ -1,0 +1,8 @@
+{% extends 'base.html' %}
+{% block title %}Meeting {{ meeting.id }}{% endblock %}
+{% block content %}
+<a href="/" class="text-link">← Back to Win-Map</a>
+<div class="transcript-heading"><div><h1>{{ meeting.customer_name }}</h1><p>{{ meeting.rep.name }} · {{ meeting.occurred_at.strftime('%b %d, %Y') }} · Meeting {{ meeting.id }}</p></div><span class="outcome-badge">{{ meeting.outcome|capitalize }}</span></div>
+<div class="transcript-note">Fictional diarized transcript · timestamps reference the seed conversation, not an audio recording.</div>
+<section class="transcript" aria-label="Meeting transcript">{% for utterance in meeting.utterances %}<article id="t-{{ utterance.ts|int }}" class="utterance {{ utterance.speaker }}"><a class="timecode" href="#t-{{ utterance.ts|int }}">{{ utterance.ts|timecode }}</a><div><strong>{{ meeting.rep.name if utterance.speaker == 'rep' else 'Homeowner' }}</strong><p>{{ utterance.text }}</p></div></article>{% endfor %}</section>
+{% endblock %}

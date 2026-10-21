@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#14171c">
+  <meta name="description" content="Learn from your top closers, one objection at a time. An independent demo with fictional field sales data.">
+  <title>{% block title %}Objection Win-Map{% endblock %}</title>
+  <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/motion@11.11.17/dist/motion.js"></script>
+  <script defer src="/static/winmap.js"></script>
+  {% block scripts %}{% endblock %}
+</head>
+<body class="{% block bodyclass %}{% endblock %}">
+<a class="skip-link" href="#main">Skip to content</a>
+<svg class="icon-definitions" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+  <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></symbol>
+  <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></symbol>
+  <symbol id="i-play" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><path d="m10 8 6 4-6 4Z"/></symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10" cy="10" r="6"/><path d="m15 15 5 5"/></symbol>
+  <symbol id="i-roof" viewBox="0 0 24 24"><path d="m2 11 10-8 10 8M5 9v12h14V9M10 21v-7h4v7"/></symbol>
+  <symbol id="i-chevron" viewBox="0 0 24 24"><path d="m8 5 7 7-7 7"/></symbol>
+  <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="13" rx="2"/><path d="M15 8V3H3v13h5"/></symbol>
+</defs></svg>
+{% macro icon(name) %}<svg class="icon" aria-hidden="true"><use href="#i-{{ name }}"/></svg>{% endmacro %}
+{% if active != 'story' %}
+<aside class="sidebar">
+  <a href="/" class="brand" aria-label="Objection Win-Map home">Win<span class="brand-dot">/</span>Map</a>
+  <div class="workspace"><span class="workspace-icon">{{ icon('roof') }}</span><div><strong>Summit Roofing</strong><span>Team workspace</span></div></div>
+  <nav aria-label="Main navigation">
+    <a href="/" aria-label="Win-Map" class="nav-item {% if active == 'winmap' %}selected{% endif %}" {% if active == 'winmap' %}aria-current="page"{% endif %}>{{ icon('grid') }}<span>Win-Map</span></a>
+    <a href="/reps/ben" aria-label="Daily Brief" class="nav-item {% if active == 'brief' %}selected{% endif %}" {% if active == 'brief' %}aria-current="page"{% endif %}>{{ icon('sun') }}<span>Daily Brief</span></a>
+    <a href="/story" aria-label="The story" class="nav-item">{{ icon('play') }}<span>The story</span><span class="nav-arrow">↗</span></a>
+  </nav>
+  <div class="sidebar-note"><div class="mini-wave" aria-hidden="true">{% for i in range(16) %}<i style="--wave:{{ [8,16,10,25,19,32,22,12][i % 8] }}px"></i>{% endfor %}</div><p>Great coaching starts<br>with a real conversation.</p><a href="/story">See how it works <span>↗</span></a></div>
+  <div class="sidebar-bottom"><span class="avatar small">SR</span><div><strong>Summit Roofing Co.</strong><span>Fictional demo workspace</span></div></div>
+</aside>
+<div class="app-shell">
+  <header class="topbar"><span>Workspace <span class="breadcrumb-slash">/</span> <strong>{% if active == 'brief' %}Daily Brief{% else %}Objection intelligence{% endif %}</strong></span><span class="demo-badge"><i></i> Demo data</span></header>
+  <main id="main" class="main-content">{% block content %}{% endblock %}</main>
+  <footer class="app-footer"><span>Built with Codex, verified by Claude Code <span class="muted">· Independent project</span></span><a href="/story">Behind the build ↗</a></footer>
+</div>
+{% else %}{% block storycontent %}{% endblock %}{% endif %}
+</body>
+</html>
