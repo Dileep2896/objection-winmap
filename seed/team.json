@@ -1,0 +1,57 @@
+{
+  "id": "summit",
+  "name": "Summit Roofing Co.",
+  "avg_deal_size": 12000,
+  "reps": [
+    {
+      "id": "ethan",
+      "name": "Ethan R.",
+      "team_id": "summit"
+    },
+    {
+      "id": "sophia",
+      "name": "Sophia L.",
+      "team_id": "summit"
+    },
+    {
+      "id": "ben",
+      "name": "Ben K.",
+      "team_id": "summit"
+    },
+    {
+      "id": "ryan",
+      "name": "Ryan C.",
+      "team_id": "summit"
+    },
+    {
+      "id": "michael",
+      "name": "Michael B.",
+      "team_id": "summit"
+    },
+    {
+      "id": "olivia",
+      "name": "Olivia M.",
+      "team_id": "summit"
+    },
+    {
+      "id": "james",
+      "name": "James T.",
+      "team_id": "summit"
+    },
+    {
+      "id": "ava",
+      "name": "Ava D.",
+      "team_id": "summit"
+    },
+    {
+      "id": "noah",
+      "name": "Noah S.",
+      "team_id": "summit"
+    },
+    {
+      "id": "mia",
+      "name": "Mia P.",
+      "team_id": "summit"
+    }
+  ]
+}

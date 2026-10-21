@@ -1,0 +1,2438 @@
+[
+  {
+    "meeting_id": "ethan-01",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-01",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-01",
+    "ts": 160,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-01",
+    "ts": 192,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-02",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-02",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-02",
+    "ts": 125,
+    "text": "Not today. I want a little space to decide.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "ethan-02",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-02",
+    "ts": 302,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-03",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-03",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-03",
+    "ts": 160,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-03",
+    "ts": 192,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-04",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-04",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-04",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ethan-04",
+    "ts": 235,
+    "text": "That is too expensive with the deductible we already paid.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ethan-04",
+    "ts": 345,
+    "text": "What guarantee do I get on the workmanship?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "ethan-04",
+    "ts": 490,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-04",
+    "ts": 522,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-05",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-05",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-05",
+    "ts": 125,
+    "text": "We were hoping to wait until next year.",
+    "objection": "timing"
+  },
+  {
+    "meeting_id": "ethan-05",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-05",
+    "ts": 302,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-06",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-06",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-06",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ethan-06",
+    "ts": 235,
+    "text": "Our budget is stretched after replacing the water heater.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ethan-06",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-06",
+    "ts": 412,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-07",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-07",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-07",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ethan-07",
+    "ts": 235,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ethan-07",
+    "ts": 345,
+    "text": "Not today. I want a little space to decide.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "ethan-07",
+    "ts": 455,
+    "text": "Do you have reviews from homeowners near us?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "ethan-07",
+    "ts": 600,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-07",
+    "ts": 632,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-08",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-08",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-08",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ethan-08",
+    "ts": 235,
+    "text": "That is too expensive with the deductible we already paid.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ethan-08",
+    "ts": 345,
+    "text": "I need to think about it before signing.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "ethan-08",
+    "ts": 490,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-08",
+    "ts": 522,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-09",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-09",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-09",
+    "ts": 125,
+    "text": "My partner should hear this too. It is a big decision for both of us.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ethan-09",
+    "ts": 235,
+    "text": "I got a quote from a roofer my brother knows.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "ethan-09",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-09",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-10",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-10",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-10",
+    "ts": 125,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ethan-10",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-10",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-11",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-11",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-11",
+    "ts": 160,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-11",
+    "ts": 192,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-12",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-12",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-12",
+    "ts": 125,
+    "text": "I need to talk to my wife before we sign anything for the roof.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ethan-12",
+    "ts": 235,
+    "text": "I got a quote from a roofer my brother knows.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "ethan-12",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ethan-12",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-01",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-01",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-01",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "sophia-01",
+    "ts": 235,
+    "text": "That is too expensive with the deductible we already paid.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "sophia-01",
+    "ts": 345,
+    "text": "Not today. I want a little space to decide.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "sophia-01",
+    "ts": 455,
+    "text": "We were hoping to wait until next year.",
+    "objection": "timing"
+  },
+  {
+    "meeting_id": "sophia-01",
+    "ts": 600,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-01",
+    "ts": 632,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-02",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-02",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-02",
+    "ts": 125,
+    "text": "I got a quote from a roofer my brother knows.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "sophia-02",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-02",
+    "ts": 302,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-03",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-03",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-03",
+    "ts": 125,
+    "text": "Not today. I want a little space to decide.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "sophia-03",
+    "ts": 235,
+    "text": "I got a quote from a roofer my brother knows.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "sophia-03",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-03",
+    "ts": 412,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-04",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-04",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-04",
+    "ts": 125,
+    "text": "I need to talk to my wife before we sign anything for the roof.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "sophia-04",
+    "ts": 235,
+    "text": "Can we sleep on it? This is a big commitment.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "sophia-04",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-04",
+    "ts": 412,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-05",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-05",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-05",
+    "ts": 125,
+    "text": "My partner should hear this too. It is a big decision for both of us.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "sophia-05",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-05",
+    "ts": 302,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-06",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-06",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-06",
+    "ts": 125,
+    "text": "My partner should hear this too. It is a big decision for both of us.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "sophia-06",
+    "ts": 235,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "sophia-06",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-06",
+    "ts": 412,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-07",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-07",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-07",
+    "ts": 125,
+    "text": "How do I know your crew will finish before the rain?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "sophia-07",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-07",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-08",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-08",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-08",
+    "ts": 125,
+    "text": "That is too expensive with the deductible we already paid.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "sophia-08",
+    "ts": 235,
+    "text": "I need to think about it before signing.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "sophia-08",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-08",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-09",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-09",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-09",
+    "ts": 125,
+    "text": "It is not the right time with school starting.",
+    "objection": "timing"
+  },
+  {
+    "meeting_id": "sophia-09",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-09",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-10",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-10",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-10",
+    "ts": 125,
+    "text": "I need to think about it before signing.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "sophia-10",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-10",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-11",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-11",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-11",
+    "ts": 125,
+    "text": "My partner should hear this too. It is a big decision for both of us.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "sophia-11",
+    "ts": 235,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "sophia-11",
+    "ts": 345,
+    "text": "Not today. I want a little space to decide.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "sophia-11",
+    "ts": 490,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-11",
+    "ts": 522,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-12",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-12",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-12",
+    "ts": 125,
+    "text": "I need to talk to my wife before we sign anything for the roof.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "sophia-12",
+    "ts": 235,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "sophia-12",
+    "ts": 345,
+    "text": "Not today. I want a little space to decide.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "sophia-12",
+    "ts": 455,
+    "text": "What guarantee do I get on the workmanship?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "sophia-12",
+    "ts": 600,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "sophia-12",
+    "ts": 632,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-01",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-01",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-01",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ben-01",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-01",
+    "ts": 302,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-02",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-02",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-02",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ben-02",
+    "ts": 235,
+    "text": "Our budget is stretched after replacing the water heater.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ben-02",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-02",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-03",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-03",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-03",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ben-03",
+    "ts": 235,
+    "text": "I need to think about it before signing.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "ben-03",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-03",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-04",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-04",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-04",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ben-04",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-04",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-05",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-05",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-05",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ben-05",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-05",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-06",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-06",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-06",
+    "ts": 125,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ben-06",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ben-06",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-01",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-01",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-01",
+    "ts": 125,
+    "text": "That is too expensive with the deductible we already paid.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ryan-01",
+    "ts": 235,
+    "text": "It is not the right time with school starting.",
+    "objection": "timing"
+  },
+  {
+    "meeting_id": "ryan-01",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-01",
+    "ts": 412,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-02",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-02",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-02",
+    "ts": 125,
+    "text": "Can we sleep on it? This is a big commitment.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "ryan-02",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-02",
+    "ts": 302,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-03",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-03",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-03",
+    "ts": 125,
+    "text": "I need to talk to my wife before we sign anything for the roof.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ryan-03",
+    "ts": 235,
+    "text": "Can we sleep on it? This is a big commitment.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "ryan-03",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-03",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-04",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-04",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-04",
+    "ts": 125,
+    "text": "My partner should hear this too. It is a big decision for both of us.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ryan-04",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-04",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-05",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-05",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-05",
+    "ts": 125,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ryan-05",
+    "ts": 235,
+    "text": "How do I know your crew will finish before the rain?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "ryan-05",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-05",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-06",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-06",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-06",
+    "ts": 125,
+    "text": "That is too expensive with the deductible we already paid.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ryan-06",
+    "ts": 235,
+    "text": "Can we sleep on it? This is a big commitment.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "ryan-06",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ryan-06",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-01",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-01",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-01",
+    "ts": 125,
+    "text": "That is too expensive with the deductible we already paid.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "michael-01",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-01",
+    "ts": 302,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-02",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-02",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-02",
+    "ts": 125,
+    "text": "I need to talk to my wife before we sign anything for the roof.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "michael-02",
+    "ts": 235,
+    "text": "What guarantee do I get on the workmanship?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "michael-02",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-02",
+    "ts": 412,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-03",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-03",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-03",
+    "ts": 125,
+    "text": "My partner should hear this too. It is a big decision for both of us.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "michael-03",
+    "ts": 235,
+    "text": "Our budget is stretched after replacing the water heater.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "michael-03",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-03",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-04",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-04",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-04",
+    "ts": 125,
+    "text": "Could we wait until next month to do the roof?",
+    "objection": "timing"
+  },
+  {
+    "meeting_id": "michael-04",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-04",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-05",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-05",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-05",
+    "ts": 125,
+    "text": "I need to talk to my wife before we sign anything for the roof.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "michael-05",
+    "ts": 235,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "michael-05",
+    "ts": 345,
+    "text": "Not today. I want a little space to decide.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "michael-05",
+    "ts": 455,
+    "text": "I got a quote from a roofer my brother knows.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "michael-05",
+    "ts": 600,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-05",
+    "ts": 632,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-06",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-06",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-06",
+    "ts": 125,
+    "text": "My partner should hear this too. It is a big decision for both of us.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "michael-06",
+    "ts": 235,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "michael-06",
+    "ts": 345,
+    "text": "Can we sleep on it? This is a big commitment.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "michael-06",
+    "ts": 490,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "michael-06",
+    "ts": 522,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-01",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-01",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-01",
+    "ts": 160,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-01",
+    "ts": 192,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-02",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-02",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-02",
+    "ts": 125,
+    "text": "Our budget is stretched after replacing the water heater.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "olivia-02",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-02",
+    "ts": 302,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-03",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-03",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-03",
+    "ts": 125,
+    "text": "We have another quote coming in on Thursday.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "olivia-03",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-03",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-04",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-04",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-04",
+    "ts": 125,
+    "text": "I need to think about it before signing.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "olivia-04",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-04",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-05",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-05",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-05",
+    "ts": 160,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-05",
+    "ts": 192,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-06",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-06",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-06",
+    "ts": 125,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "olivia-06",
+    "ts": 235,
+    "text": "Not today. I want a little space to decide.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "olivia-06",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "olivia-06",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-01",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-01",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-01",
+    "ts": 125,
+    "text": "I need to think about it before signing.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "james-01",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-01",
+    "ts": 302,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-02",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-02",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-02",
+    "ts": 125,
+    "text": "My partner should hear this too. It is a big decision for both of us.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "james-02",
+    "ts": 235,
+    "text": "I need to think about it before signing.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "james-02",
+    "ts": 345,
+    "text": "How do I know your crew will finish before the rain?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "james-02",
+    "ts": 490,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-02",
+    "ts": 522,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-03",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-03",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-03",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "james-03",
+    "ts": 235,
+    "text": "It is not the right time with school starting.",
+    "objection": "timing"
+  },
+  {
+    "meeting_id": "james-03",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-03",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-04",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-04",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-04",
+    "ts": 125,
+    "text": "That is too expensive with the deductible we already paid.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "james-04",
+    "ts": 235,
+    "text": "I need to think about it before signing.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "james-04",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-04",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-05",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-05",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-05",
+    "ts": 125,
+    "text": "Can we sleep on it? This is a big commitment.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "james-05",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-05",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-06",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-06",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-06",
+    "ts": 125,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "james-06",
+    "ts": 235,
+    "text": "We have another quote coming in on Thursday.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "james-06",
+    "ts": 345,
+    "text": "Do you have reviews from homeowners near us?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "james-06",
+    "ts": 490,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "james-06",
+    "ts": 522,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-01",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-01",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-01",
+    "ts": 125,
+    "text": "Our budget is stretched after replacing the water heater.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ava-01",
+    "ts": 235,
+    "text": "The other company offered the same shingles for less.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "ava-01",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-01",
+    "ts": 412,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-02",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-02",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-02",
+    "ts": 125,
+    "text": "My husband handles the big decisions. He is at work right now.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ava-02",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-02",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-03",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-03",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-03",
+    "ts": 125,
+    "text": "My partner should hear this too. It is a big decision for both of us.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "ava-03",
+    "ts": 235,
+    "text": "I need to think about it before signing.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "ava-03",
+    "ts": 345,
+    "text": "It is not the right time with school starting.",
+    "objection": "timing"
+  },
+  {
+    "meeting_id": "ava-03",
+    "ts": 490,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-03",
+    "ts": 522,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-04",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-04",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-04",
+    "ts": 125,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ava-04",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-04",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-05",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-05",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-05",
+    "ts": 125,
+    "text": "I cannot afford that amount for shingles right now.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "ava-05",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-05",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-06",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-06",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-06",
+    "ts": 160,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "ava-06",
+    "ts": 192,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-01",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-01",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-01",
+    "ts": 125,
+    "text": "That is too expensive with the deductible we already paid.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "noah-01",
+    "ts": 235,
+    "text": "Not today. I want a little space to decide.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "noah-01",
+    "ts": 345,
+    "text": "Could we wait until next month to do the roof?",
+    "objection": "timing"
+  },
+  {
+    "meeting_id": "noah-01",
+    "ts": 490,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-01",
+    "ts": 522,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-02",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-02",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-02",
+    "ts": 160,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-02",
+    "ts": 192,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-03",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-03",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-03",
+    "ts": 125,
+    "text": "Do you have reviews from homeowners near us?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "noah-03",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-03",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-04",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-04",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-04",
+    "ts": 125,
+    "text": "Our budget is stretched after replacing the water heater.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "noah-04",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-04",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-05",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-05",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-05",
+    "ts": 125,
+    "text": "The other company offered the same shingles for less.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "noah-05",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-05",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-06",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-06",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-06",
+    "ts": 125,
+    "text": "Can we sleep on it? This is a big commitment.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "noah-06",
+    "ts": 235,
+    "text": "Do you have reviews from homeowners near us?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "noah-06",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "noah-06",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-01",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-01",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-01",
+    "ts": 125,
+    "text": "My partner should hear this too. It is a big decision for both of us.",
+    "objection": "spouse/partner"
+  },
+  {
+    "meeting_id": "mia-01",
+    "ts": 235,
+    "text": "Our budget is stretched after replacing the water heater.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "mia-01",
+    "ts": 345,
+    "text": "We have another quote coming in on Thursday.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "mia-01",
+    "ts": 455,
+    "text": "How do I know your crew will finish before the rain?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "mia-01",
+    "ts": 600,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-01",
+    "ts": 632,
+    "text": "All right, let us get the paperwork started.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-02",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-02",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-02",
+    "ts": 125,
+    "text": "The other company offered the same shingles for less.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "mia-02",
+    "ts": 235,
+    "text": "Do you have reviews from homeowners near us?",
+    "objection": "trust"
+  },
+  {
+    "meeting_id": "mia-02",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-02",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-03",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-03",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-03",
+    "ts": 125,
+    "text": "I need to think about it before signing.",
+    "objection": "think about it"
+  },
+  {
+    "meeting_id": "mia-03",
+    "ts": 270,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-03",
+    "ts": 302,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-04",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-04",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-04",
+    "ts": 125,
+    "text": "That is too expensive with the deductible we already paid.",
+    "objection": "price"
+  },
+  {
+    "meeting_id": "mia-04",
+    "ts": 235,
+    "text": "Could we wait until next month to do the roof?",
+    "objection": "timing"
+  },
+  {
+    "meeting_id": "mia-04",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-04",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-05",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-05",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-05",
+    "ts": 125,
+    "text": "The other company offered the same shingles for less.",
+    "objection": "competitor"
+  },
+  {
+    "meeting_id": "mia-05",
+    "ts": 235,
+    "text": "It is not the right time with school starting.",
+    "objection": "timing"
+  },
+  {
+    "meeting_id": "mia-05",
+    "ts": 380,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-05",
+    "ts": 412,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-06",
+    "ts": 14,
+    "text": "The hail came through Tuesday. We found shingle pieces by the driveway.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-06",
+    "ts": 51,
+    "text": "The insurance adjuster was here yesterday and left this report.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-06",
+    "ts": 160,
+    "text": "I appreciate you walking me through the photos.",
+    "objection": null
+  },
+  {
+    "meeting_id": "mia-06",
+    "ts": 192,
+    "text": "I am going to hold off on signing anything.",
+    "objection": null
+  }
+]
