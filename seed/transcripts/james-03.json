@@ -1,0 +1,71 @@
+{
+  "id": "james-03",
+  "rep_id": "james",
+  "outcome": "lost",
+  "team_id": "summit",
+  "customer_name": "Morgan \u00b7 Oak Lane",
+  "deal_value": 12000,
+  "occurred_at": "2026-10-11T14:30:00Z",
+  "utterances": [
+    {
+      "speaker": "rep",
+      "ts": 0,
+      "text": "Thanks for having me over. Let us look at the inspection photos together."
+    },
+    {
+      "speaker": "customer",
+      "ts": 14,
+      "text": "The hail came through Tuesday. We found shingle pieces by the driveway."
+    },
+    {
+      "speaker": "rep",
+      "ts": 32,
+      "text": "There is bruising on the south slope and some lifted flashing by the chimney."
+    },
+    {
+      "speaker": "customer",
+      "ts": 51,
+      "text": "The insurance adjuster was here yesterday and left this report."
+    },
+    {
+      "speaker": "rep",
+      "ts": 75,
+      "text": "We will replace the decking where needed and use 25-year architectural shingles. Cleanup and the magnetic nail sweep are included."
+    },
+    {
+      "speaker": "customer",
+      "ts": 125,
+      "text": "My husband handles the big decisions. He is at work right now."
+    },
+    {
+      "speaker": "rep",
+      "ts": 143,
+      "text": "I could take $500 off if you sign today. Otherwise I can leave the estimate here and check back with you."
+    },
+    {
+      "speaker": "customer",
+      "ts": 235,
+      "text": "It is not the right time with school starting."
+    },
+    {
+      "speaker": "rep",
+      "ts": 253,
+      "text": "Okay, I can check back with you in a few weeks."
+    },
+    {
+      "speaker": "customer",
+      "ts": 380,
+      "text": "I appreciate you walking me through the photos."
+    },
+    {
+      "speaker": "rep",
+      "ts": 395,
+      "text": "I will put the full scope and the material list in writing for you."
+    },
+    {
+      "speaker": "customer",
+      "ts": 412,
+      "text": "I am going to hold off on signing anything."
+    }
+  ]
+}

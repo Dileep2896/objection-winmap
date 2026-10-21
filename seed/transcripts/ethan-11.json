@@ -1,0 +1,51 @@
+{
+  "id": "ethan-11",
+  "rep_id": "ethan",
+  "outcome": "lost",
+  "team_id": "summit",
+  "customer_name": "Morgan \u00b7 Oak Lane",
+  "deal_value": 14500,
+  "occurred_at": "2026-10-11T14:30:00Z",
+  "utterances": [
+    {
+      "speaker": "rep",
+      "ts": 0,
+      "text": "Thanks for having me over. Let us look at the inspection photos together."
+    },
+    {
+      "speaker": "customer",
+      "ts": 14,
+      "text": "The hail came through Tuesday. We found shingle pieces by the driveway."
+    },
+    {
+      "speaker": "rep",
+      "ts": 32,
+      "text": "There is bruising on the south slope and some lifted flashing by the chimney."
+    },
+    {
+      "speaker": "customer",
+      "ts": 51,
+      "text": "The insurance adjuster was here yesterday and left this report."
+    },
+    {
+      "speaker": "rep",
+      "ts": 75,
+      "text": "We will replace the decking where needed and use 25-year architectural shingles. Cleanup and the magnetic nail sweep are included."
+    },
+    {
+      "speaker": "customer",
+      "ts": 160,
+      "text": "I appreciate you walking me through the photos."
+    },
+    {
+      "speaker": "rep",
+      "ts": 175,
+      "text": "I will put the full scope and the material list in writing for you."
+    },
+    {
+      "speaker": "customer",
+      "ts": 192,
+      "text": "I am going to hold off on signing anything."
+    }
+  ]
+}
